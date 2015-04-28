@@ -1,0 +1,11 @@
+<html>
+<script
+src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-
+AMS-MML_HTMLorMML">  
+</script>
+
+
+Если J=0, то 
+\[\frac{ \phi^+_x }{\phi^+_y}= \frac{ \phi^-_x }{\phi^-_y} :\frac{ \phi^+_x }{\phi^+_y}=\frac{-b+\sqrt{b^2-ac}}{a} ,\]
+\[\frac{ \phi^-_x }{\phi^-_y}=\frac{-b-\sqrt{b^2-ac}}{a} \]
+</html>
